@@ -72,19 +72,18 @@ Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次
 - `preferences/`, `slides/` — アプリ実行中に使用される設定ファイル
 
 ### 実行方法
-1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **coulomb_ver4_beta.zip** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。
-2. MATLAB 上でディレクトリ "coulomb_ver4_beta" を開いてください。coulomb.mlappが格納されているディレクトリを開いた状態であれば問題ありません。
-3. MATLAB コマンドウィンドウから "coulomb" と入力し、ソフトウェアを実行します。
-4. メニューの **Open/Save → Open Input File** から、入力断層および受信断層データを読み込みます。
-5. 実行したい機能モードを選択します。 (e.g., *Coulomb stress change*, *Displacement vectors*, *Strain field*).  
-6. ウィンドウ上の指示に従って計算を実行してください。
+1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **coulomb_ver4_beta.zip** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。  
+2. MATLAB 上でディレクトリ "coulomb_ver4_beta" を開いてください。coulomb.mlappが格納されているディレクトリを開いた状態であれば問題ありません。  
+3. MATLAB コマンドウィンドウから "coulomb" と入力し、ソフトウェアを実行します。  
+4. メニューの **Open/Save → Open Input File** から、入力断層および受信断層データを読み込みます。  
+5. 実行したい機能モードを選択します。 (e.g., *Coulomb stress change*, *Displacement vectors*, *Strain field*).    
+6. ウィンドウ上の指示に従って計算を実行してください。  
 
-（※1）海岸線データの取得
-GitHubのサイズ制限の問題で、アプリ内で海岸線データの作成に利用するファイルが含まれていません。
-NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。
-`https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`
-
-ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。
+（※1）海岸線データの取得  
+GitHubのサイズ制限の問題で、アプリ内で海岸線データの作成に利用するファイルが含まれていません。  
+NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。  
+`https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
+ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。  
 
 ### 今後のアップデート予定
 - ドキュメントおよびヘルプシステムの拡充

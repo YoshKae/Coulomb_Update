@@ -31,8 +31,8 @@ If you use the ZIP file, please also follow step (*1) below.
 (*1) Coastline data required
 Due to GitHub file size limitations, the files required for generating coastline data within the application are not included in this repository.
 Please download the publicly available coastline dataset provided by NOAA (National Oceanic and Atmospheric Administration) from the following link:
-https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip
-After downloading, extract the ZIP file and move the extracted contents directly into the **input_overlay_files/** directory.
+`https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`
+After downloading, extract the ZIP file and move the extracted contents directly into the **`input_overlay_files/`** directory.
 
 ### Future Updates
 - Expansion of documentation and help systems
@@ -82,8 +82,8 @@ Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次
 （※1）海岸線データの取得
 GitHubのサイズ制限の問題で、アプリ内で海岸線データの作成に利用するファイルが含まれていません。
 NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。
-https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip
-ダウンロードしたzipファイルを解凍し、 **input_overlay_files/** のディレクトリ内にそのまま移動してください。
+`https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`
+ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。
 
 ### 今後のアップデート予定
 - ドキュメントおよびヘルプシステムの拡充

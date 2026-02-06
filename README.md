@@ -68,7 +68,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 
 ### リポジトリ構成  
 - `coulomb.mlapp` — MATLAB App Designer によるメインアプリケーションファイル  
-- `input_files/` — 解析に使用するトモグラフィデータ等の入力ファイル格納用フォルダ  
+- `input_files/` — 解析に使用する有限地震断層モデルの入力ファイル格納用フォルダ。  
 - `input_overlay_files/` — 解析時に重ね描きするオーバーレイ用ファイルのフォルダ  
 - `other_functions/` — オプション的な関数フォルダ，基本的に使用しません。  
 - `output_cou_files/`, `output_data_files/` — 計算結果が保存されるフォルダ  

@@ -83,6 +83,7 @@ Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次
 GitHubのサイズ制限の問題で、アプリ内で海岸線データの作成に利用するファイルが含まれていません。
 NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。
 `https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`
+
 ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。
 
 ### 今後のアップデート予定

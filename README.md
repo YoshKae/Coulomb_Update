@@ -24,7 +24,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 1. Download all files contained in the Coulomb_ver4_beta directory, or download coulomb_ver4_beta.zip and extract it. If you use the ZIP file, please also follow step (*1) below.  
 2. Open the directory "coulomb_ver4_beta" in MATLAB. (It is sufficient to open the directory that contains coulomb.mlapp.)  
 3. In the MATLAB Command Window, type **coulomb** to launch the software.  
-4. Load input fault and receiver data via the **Open/Save → Open Input File** menu.  
+4. Input source faults and receiver faults via the **Open/Save → Open Input File** menu.  
 5. Select the desired function mode (e.g., *Coulomb stress change*, *Displacement vectors*, *Strain field*).  
 6. Executes calculations according to window instructions.  
 
@@ -78,7 +78,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **coulomb_ver4_beta.zip** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。  
 2. MATLAB 上でディレクトリ "coulomb_ver4_beta" を開いてください。coulomb.mlappが格納されているディレクトリを開いた状態であれば問題ありません。  
 3. MATLAB コマンドウィンドウから "coulomb" と入力し、ソフトウェアを実行します。  
-4. メニューの **Open/Save → Open Input File** から、入力断層および受信断層データを読み込みます。  
+4. メニューの **Open/Save → Open Input File** から、震源断層データおよびレシーバー断層データを読み込みます。  
 5. 実行したい機能モードを選択します。 (e.g., *Coulomb stress change*, *Displacement vectors*, *Strain field*).    
 6. ウィンドウ上の指示に従って計算を実行してください。  
 

@@ -4,6 +4,11 @@ Currently, the repository includes the **beta version of Coulomb ver. 4.0**.
 Coulomb 4.0 is a MATLAB-based application for calculating and visualizing Coulomb stress changes in both two and three dimensions, representing a substantial extension of previous versions.   
 While it is expected to run on MATLAB 2024a or later, it is more stable when used with MATLAB 2025a or newer.  
 
+### Important Notice   
+As this is a beta version, bugs may be discovered and fixed in future updates.  
+**Please check the update information regularly.**  
+Check the bottom for updates.  
+
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
   - Mapping Toolbox  
   - Image Processing Toolbox  
@@ -43,6 +48,8 @@ After downloading, extract the ZIP file and move the extracted contents directly
 - Map visualization functions  
 - Bug fixes and other improvements  
 
+### Update information
+- ver. 4.0.0 beta — 2026-02-08 **Latest**
 
 ### Contact  
 For questions, bug reports, or collaboration inquiries, please contact:  
@@ -57,6 +64,11 @@ For questions, bug reports, or collaboration inquiries, please contact:
 現在、**Coulomb ver. 4.0 のベータ版**を収録しています。  
 Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
+
+### 重要
+ベータバージョンのため、バグが見つかる可能性があります.  
+**アップデート情報を確認するようにしてください。**  
+最下部に掲載されています。  
 
 **アプリを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
   - Mapping Toolbox  
@@ -97,6 +109,8 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 - 地図表示機能  
 - その他バグなどの修正  
 
+### 更新情報
+- ver. 4.0.0 beta — 2026-02-08 **Latest**
 
 ### 連絡先  
 質問、不具合報告、共同研究に関するお問い合わせは、以下までご連絡ください。  

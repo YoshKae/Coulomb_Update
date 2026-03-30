@@ -48,11 +48,14 @@ After downloading, extract the ZIP file and move the extracted contents directly
 - Map visualization functions  
 - Bug fixes and other improvements  
 
-### Update information
+### Update information 
 - ver. 4.0.0 beta — 2026-02-08 **Latest**
 
+### Support 
+For questions, bug reports, feature requests, and general feedback, please use the Issues section of this GitHub repository. 
+
 ### Contact  
-For questions, bug reports, or collaboration inquiries, please contact:  
+For collaboration inquiries or direct contact, please reach out by email:  
   **Kaede Yoshizawa**  
   Graduate School of Science, Tohoku University  
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
@@ -112,8 +115,11 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 ### 更新情報
 - ver. 4.0.0 beta — 2026-02-08 **最新**
 
+### サポート　
+ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの Issues よりご連絡ください。　
+
 ### 連絡先  
-質問、不具合報告、共同研究に関するお問い合わせは、以下までご連絡ください。  
+共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  
   **吉澤　楓**  
   東北大学大学院　理学研究科地学専攻  
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  

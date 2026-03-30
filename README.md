@@ -12,7 +12,8 @@ Check the bottom for updates.
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
 **Required for core functions**  
 - Mapping Toolbox  
-- Image Processing Toolbox  
+- Image Processing Toolbox
+
 **Required only for optional earthquake catalog analysis**  
 - Curve Fitting Toolbox  
   (used for statistical analysis with the ISC Earthquake Toolbox)  
@@ -85,7 +86,8 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 **必須（基本機能）**  
 - Mapping Toolbox  
-- Image Processing Toolbox  
+- Image Processing Toolbox
+
 **任意（特定の解析機能のみ）**  
 - Curve Fitting Toolbox  
   （ISC Earthquake Toolbox を用いた地震カタログの統計解析時に使用） 

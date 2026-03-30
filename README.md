@@ -9,10 +9,13 @@ As this is a beta version, bugs may be discovered and fixed in future updates.
 **Please check the update information regularly.**  
 Check the bottom for updates.  
 
-**Before running the application, please ensure that the following MATLAB add-ons are installed:**  
-  - Mapping Toolbox  
-  - Image Processing Toolbox  
-  - Curve Fitting Toolbox  
+**Before running the application, please ensure that the following MATLAB add-ons are installed:**
+**Required for core functions**  
+- Mapping Toolbox  
+- Image Processing Toolbox  
+**Required only for optional earthquake catalog analysis**  
+- Curve Fitting Toolbox  
+  (used for statistical analysis with the ISC Earthquake Toolbox)  
 
 Although the calculation results are generally reliable, unstable behavior has been observed under certain conditions.  
 We are continuing to debug these issues; please refer to future updates of coulomb.mlapp for improvements.  
@@ -79,10 +82,13 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 **アップデート情報を確認するようにしてください。**  
 最下部に掲載されています。  
 
-**アプリを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
-  - Mapping Toolbox  
-  - Image Processing Toolbox  
-  - Curve Fitting Toolbox  
+**アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
+**必須（基本機能）**  
+- Mapping Toolbox  
+- Image Processing Toolbox  
+**任意（特定の解析機能のみ）**  
+- Curve Fitting Toolbox  
+  （ISC Earthquake Toolbox を用いた地震カタログの統計解析時に使用） 
 
 計算結果自体は概ね信頼できるものですが、特定の条件下で不安定な挙動が確認されています。  
 本件については引き続きデバッグを進めており、今後の coulomb.mlapp の更新をご確認ください。  

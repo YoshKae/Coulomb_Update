@@ -9,7 +9,7 @@ As this is a beta version, bugs may be discovered and fixed in future updates.
 **Please check the update information regularly.**  
 Check the bottom for updates.  
 
-**Before running the application, please ensure that the following MATLAB add-ons are installed:**
+**Before running the application, please ensure that the following MATLAB add-ons are installed:**  
 **Required for core functions**  
 - Mapping Toolbox  
 - Image Processing Toolbox  

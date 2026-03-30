@@ -37,6 +37,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 Due to GitHub file size limitations, the files required for generating coastline data within the application are not included in this repository.  
 Please download the publicly available coastline dataset provided by NOAA (National Oceanic and Atmospheric Administration) from the following link:  
 `https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
+
 After downloading, extract the ZIP file and move the extracted contents directly into the **`input_overlay_files/`** directory.  
 
 ### Future Updates  
@@ -53,6 +54,11 @@ After downloading, extract the ZIP file and move the extracted contents directly
 
 ### Support 
 For questions, bug reports, feature requests, and general feedback, please use the Issues section of this GitHub repository. 
+
+This software is also introduced on the **Temblor, Inc.** website.  
+Please refer to the following page for an overview and related information.
+
+`https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/`
 
 ### Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
@@ -118,9 +124,9 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 ### サポート　
 ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの Issues よりご連絡ください。　　
 
-また、本ソフトウェアは以下の Temblor, Inc. のホームページでも紹介されています。概要や関連情報については、こちらもあわせてご参照ください。
+また、本ソフトウェアは以下の **Temblor, Inc.** のホームページでも紹介されています。概要や関連情報については、こちらもあわせてご参照ください。
 
-’https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/’
+`https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/`
 
 ### 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  

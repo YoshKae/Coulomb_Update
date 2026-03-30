@@ -60,9 +60,8 @@ After downloading, extract the ZIP file and move the extracted contents directly
 For questions, bug reports, feature requests, and general feedback, please use the **[Issues section](https://github.com/YoshKae/Coulomb_ver4/issues)**  of this GitHub repository. 
 
 This software is also introduced on the **Temblor, Inc.** website.  
-Please refer to the following page for an overview and related information.
+Please refer to **[this page](https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/)** for an overview and related information.
 
-`https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/`
 
 ### Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
@@ -132,9 +131,8 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 ### サポート　
 ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの **[Issues](https://github.com/YoshKae/Coulomb_ver4/issues)** よりご連絡ください。　　
 
-また、本ソフトウェアは以下の **Temblor, Inc.** のホームページでも紹介されています。概要や関連情報については、こちらもあわせてご参照ください。
-
-`https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/`
+また、本ソフトウェアは以下の Temblor, Inc. のホームページでも紹介されています。  
+概要や関連情報については、 **[こちら](https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/)** もあわせてご参照ください。  
 
 ### 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  

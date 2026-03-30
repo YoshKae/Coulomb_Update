@@ -116,7 +116,11 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 - ver. 4.0.0 beta — 2026-02-08 **最新**
 
 ### サポート　
-ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの Issues よりご連絡ください。　
+ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの Issues よりご連絡ください。　　
+
+また、本ソフトウェアは以下の Temblor, Inc. のホームページでも紹介されています。概要や関連情報については、こちらもあわせてご参照ください。
+
+’https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/’
 
 ### 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  

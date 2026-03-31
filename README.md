@@ -35,7 +35,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 ### How to Run  
 1. Download all files contained in the Coulomb_ver4_beta directory, or download **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** and extract it. If you use the ZIP file, please also follow step (*1) below.  
 2. Open the directory "coulomb_ver4_beta" in MATLAB. (It is sufficient to open the directory that contains coulomb.mlapp.)
-3. To update the version of the included `coulomb.mlapp`, please download the corresponding file from the [Releases](https://github.com/YoshKae/Coulomb_ver4/releases) of the target version and replace the existing `coulomb.mlapp` file.  
+3. If you want update the version of the included `coulomb.mlapp`, please download the corresponding file from the [Releases](https://github.com/YoshKae/Coulomb_ver4/releases) of the target version and replace the existing `coulomb.mlapp` file.  
 4. In the MATLAB Command Window, type **coulomb** to launch the software.  
 5. Input source faults and receiver faults via the **Open/Save → Open Input File** menu.  
 6. Select the desired function mode (e.g., *Coulomb stress change*, *Displacement vectors*, *Strain field*).  

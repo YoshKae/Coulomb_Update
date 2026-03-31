@@ -90,12 +90,21 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **最新**
 - ver. 4.0.1 — 開発中
 
+### 今後のアップデート予定  
+- ドキュメントおよびヘルプシステムの拡充  
+- MATLAB 2024a 以降への完全対応  
+- ISC Earthquake Toolboxの完全統合  
+- 諸機関の公開する地震カタログの取得機能  
+- オーバーレイデータのアプリ内作成機能の拡充  
+- 地図表示機能  
+- その他バグなどの修正
+  
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 ### 必須（基本機能）  
 - [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
 - [Image Processing Toolbox](https://jp.mathworks.com/products/image-processing.html)
 
-## 任意（特定の解析機能のみ）  
+### 任意（特定の解析機能のみ）  
 - [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
   （[ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/) を用いた地震カタログの統計解析時に使用） 
 
@@ -125,14 +134,7 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 `https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
 ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。  
 
-## 今後のアップデート予定  
-- ドキュメントおよびヘルプシステムの拡充  
-- MATLAB 2024a 以降への完全対応  
-- ISC Earthquake Toolboxの完全統合  
-- 諸機関の公開する地震カタログの取得機能  
-- オーバーレイデータのアプリ内作成機能の拡充  
-- 地図表示機能  
-- その他バグなどの修正  
+
 
 ## サポート　
 ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの **[Issues](https://github.com/YoshKae/Coulomb_ver4/issues)** よりご連絡ください。　　

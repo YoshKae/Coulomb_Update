@@ -16,7 +16,6 @@ Bugs may be discovered and fixed, and new features may be added.
 ### Update information 
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **Latest**
 - ver. 4.0.1 — under development
-<br>
 
 ### Future Updates  
 - Expansion of documentation and help systems  
@@ -102,7 +101,6 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 ### アップデート情報
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **最新**
 - ver. 4.0.1 — 開発中
-<br>
 
 ### 今後のアップデート予定  
 - ドキュメントおよびヘルプシステムの拡充  

@@ -80,6 +80,7 @@ This repository was created on August 8, 2025, to share the development and edit
 
 現在、**Coulomb ver. 4.0.0**を収録しています。  
 Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
+<br>
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
 
 
@@ -100,7 +101,8 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - オーバーレイデータのアプリ内作成機能の拡充  
 - 地図表示機能  
 - その他バグなどの修正
-  
+<br>
+<br>
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 ### 必須（基本機能）  
 - [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
@@ -110,8 +112,11 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
   （[ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/) を用いた地震カタログの統計解析時に使用） 
 
+<br>
 計算結果自体は概ね信頼できるものですが、特定の条件下で不安定な挙動が確認されています。  
 本件については引き続きデバッグを進めており、今後の coulomb.mlapp の更新をご確認ください。  
+<br>
+<br>
 
 ## リポジトリ構成  
 - `coulomb.mlapp` — MATLAB App Designer によるメインアプリケーションファイル  
@@ -120,6 +125,8 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - `other_functions/` — オプション的な関数フォルダ，基本的に使用しません。  
 - `output_cou_files/`, `output_data_files/` — 計算結果が保存されるフォルダ  
 - `preferences/`, `slides/` — アプリ実行中に使用される設定ファイル  
+<br>
+<br>
 
 ## 実行方法  
 1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。  
@@ -148,5 +155,6 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  
   **吉澤　楓**  
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
-
+<br>
+<br>
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  

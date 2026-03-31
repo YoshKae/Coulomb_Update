@@ -1,7 +1,8 @@
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.  
 
 Currently, the repository includes the **Coulomb ver. 4.0.0**.  
-Coulomb 4.0 is a MATLAB-based application for calculating and visualizing Coulomb stress changes in both two and three dimensions, representing a substantial extension of previous versions.   
+Coulomb ver. 4.0 is a MATLAB-based application redesigned and reconstructed for the current MATLAB environment based on [Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/).  
+The software has been significantly extended from the previous version to support the calculation and visualization of **static Coulomb stress changes in both 2D and 3D**.  
 While it is expected to run on MATLAB 2024a or later, it is more stable when used with MATLAB 2025a or newer.  
   
 Bugs may be discovered and fixed, and new features may be added.  
@@ -66,8 +67,7 @@ Please refer to **[this page](https://temblor.net/earthquake-insights/introducin
 
 ### Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
-  **Kaede Yoshizawa**  
-  Graduate School of Science, Tohoku University  
+  **Kaede Yoshizawa**   
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
 
 
@@ -75,7 +75,7 @@ For collaboration inquiries or direct contact, please reach out by email:
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  
 
 現在、**Coulomb ver. 4.0.0**を収録しています。  
-Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
+Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
 
 新たに発見されたバグが修正される可能性や、新機能が追加される場合があります.  
@@ -139,5 +139,4 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 ### 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  
   **吉澤　楓**  
-  東北大学大学院　理学研究科地学専攻  
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  

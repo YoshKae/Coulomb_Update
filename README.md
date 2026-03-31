@@ -103,6 +103,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - その他バグなどの修正
 <br>
 <br>
+
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 ### 必須（基本機能）  
 - [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
@@ -125,7 +126,6 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - `other_functions/` — オプション的な関数フォルダ，基本的に使用しません。  
 - `output_cou_files/`, `output_data_files/` — 計算結果が保存されるフォルダ  
 - `preferences/`, `slides/` — アプリ実行中に使用される設定ファイル  
-<br>
 <br>
 
 ## 実行方法  

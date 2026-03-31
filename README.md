@@ -7,10 +7,12 @@ While it is expected to run on MATLAB 2024a or later, it is more stable when use
   
 Bugs may be discovered and fixed, and new features may be added.  
 **Please check the update information regularly.**  
+<br>
 
 ### Update information 
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **Latest**
 - ver. 4.0.1 — under development
+<br>
 
 ### Important Notice 
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
@@ -24,6 +26,7 @@ Bugs may be discovered and fixed, and new features may be added.
 
 Although the calculation results are generally reliable, unstable behavior has been observed under certain conditions.  
 We are continuing to debug these issues; please refer to future updates of coulomb.mlapp for improvements.  
+<br>
 
 ### Repository Structure  
 - `coulomb.mlapp` — Main MATLAB App Designer application file  
@@ -32,6 +35,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 - `other_functions/` — Optional function directory; generally not required for normal use  
 - `output_cou_files/`, `output_data_files/` — Directories where calculation results are saved  
 - `preferences/`, `slides/` — Configuration files used while the app is running  
+<br>
 
 ### How to Run  
 1. Download all files contained in the Coulomb_ver4_beta directory, or download **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** and extract it. If you use the ZIP file, please also follow step (*1) below.  
@@ -48,6 +52,7 @@ Please download the publicly available coastline dataset provided by NOAA (Natio
 `https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
 
 After downloading, extract the ZIP file and move the extracted contents directly into the **`input_overlay_files/`** directory.  
+<br>
 
 ### Future Updates  
 - Expansion of documentation and help systems  
@@ -57,23 +62,23 @@ After downloading, extract the ZIP file and move the extracted contents directly
 - Enhanced in-app creation tools for overlay data  
 - Map visualization functions  
 - Bug fixes and other improvements  
+<br>
 
 ### Support 
 For questions, bug reports, feature requests, and general feedback, please use the **[Issues section](https://github.com/YoshKae/Coulomb_ver4/issues)**  of this GitHub repository. 
 
 This software is also introduced on the **[Temblor, Inc.](https://temblor.net/)** website.  
 Please refer to **[this page](https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/)** for an overview and related information.
-
+<br>
 
 ### Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
   **Kaede Yoshizawa**   
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
-
+<br>
 
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.
 
--------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
 
 # Coulomb ver. 4.x  
@@ -82,7 +87,7 @@ This repository was created on August 8, 2025, to share the development and edit
 Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
 <br>
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
-
+<br>
 
 ## 重要
 
@@ -92,6 +97,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 ### アップデート情報
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **最新**
 - ver. 4.0.1 — 開発中
+<br>
 
 ### 今後のアップデート予定  
 - ドキュメントおよびヘルプシステムの拡充  
@@ -102,7 +108,6 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - 地図表示機能  
 - その他バグなどの修正
 <br>
-<br>
 
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 ### 必須（基本機能）  
@@ -112,11 +117,10 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 ### 任意（特定の解析機能のみ）  
 - [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
   （[ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/) を用いた地震カタログの統計解析時に使用） 
-
 <br>
+
 計算結果自体は概ね信頼できるものですが、特定の条件下で不安定な挙動が確認されています。  
 本件については引き続きデバッグを進めており、今後の coulomb.mlapp の更新をご確認ください。  
-<br>
 <br>
 
 ## リポジトリ構成  
@@ -142,19 +146,19 @@ GitHubのサイズ制限の問題で、アプリ内で海岸線データの作�
 NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。  
 `https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
 ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。  
-
-
+<br>
 
 ## サポート　
 ご質問、不具合報告、機能追加のご要望、その他フィードバックについては、本 GitHub リポジトリの **[Issues](https://github.com/YoshKae/Coulomb_ver4/issues)** よりご連絡ください。　　
 
 また、本ソフトウェアは以下の **[Temblor, Inc.](https://temblor.net/)** のホームページでも紹介されています。  
 概要や関連情報については、 **[こちら](https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/)** もあわせてご参照ください。  
+<br>
 
 ## 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  
   **吉澤　楓**  
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
 <br>
-<br>
+
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  

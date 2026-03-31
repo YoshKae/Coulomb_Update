@@ -70,9 +70,11 @@ For collaboration inquiries or direct contact, please reach out by email:
   **Kaede Yoshizawa**   
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
 
-This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.  
--------------------------------------------------------------------------------------------------------------------
 
+This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.
+
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 # Coulomb ver. 4.x  
 

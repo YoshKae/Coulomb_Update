@@ -80,6 +80,9 @@ For collaboration inquiries or direct contact, please reach out by email:
 <br>
 
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.
+<br>
+
+Last modified: March　31, 2026  
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -164,3 +167,6 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 <br>
 
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  
+<br>
+
+最終更新日: 2026年3月31日  

@@ -1,4 +1,4 @@
-# Coulomb ver. 4.x
+# Coulomb ver. 4.x  
 
 Currently, the repository includes the **Coulomb ver. 4.0.0**.  
 Coulomb ver. 4.0 is a MATLAB-based application redesigned and reconstructed for the current MATLAB environment based on [Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/).  
@@ -72,11 +72,16 @@ For collaboration inquiries or direct contact, please reach out by email:
 
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.  
 -------------------------------------------------------------------------------------------------------------------
-# Coulomb ver. 4.x
+
+
+# Coulomb ver. 4.x  
 
 現在、**Coulomb ver. 4.0.0**を収録しています。  
 Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
+
+
+## 重要
 
 新たに発見されたバグが修正される可能性や、新機能が追加される場合があります.  
 **アップデート情報を確認するようにしてください。**  
@@ -85,7 +90,6 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **最新**
 - ver. 4.0.1 — 開発中
 
-## 重要
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 ### 必須（基本機能）  
 - [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  

@@ -3,8 +3,11 @@
 Currently, the repository includes the **Coulomb ver. 4.0.0**.  
 Coulomb ver. 4.0 is a MATLAB-based application redesigned and reconstructed for the current MATLAB environment based on [Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/).  
 The software has been significantly extended from the previous version to support the calculation and visualization of **static Coulomb stress changes in both 2D and 3D**.  
+<br>
 While it is expected to run on MATLAB 2024a or later, it is more stable when used with MATLAB 2025a or newer.  
   
+## Important Notice  
+
 Bugs may be discovered and fixed, and new features may be added.  
 **Please check the update information regularly.**  
 <br>
@@ -14,21 +17,31 @@ Bugs may be discovered and fixed, and new features may be added.
 - ver. 4.0.1 — under development
 <br>
 
-### Important Notice 
+### Future Updates  
+- Expansion of documentation and help systems  
+- Full compatibility with MATLAB 2024a and later  
+- Complete integration of the ISC Earthquake Toolbox  
+- Functions to retrieve earthquake catalogs published by various institutions  
+- Enhanced in-app creation tools for overlay data  
+- Map visualization functions  
+- Bug fixes and other improvements  
+<br>
+
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
-**Required for core functions**  
+### Required for core functions  
 - [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
 - [Image Processing Toolbox](https://jp.mathworks.com/products/image-processing.html)
 
-**Required only for optional earthquake catalog analysis**  
+### Required only for optional earthquake catalog analysis  
 - [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
   (used for statistical analysis with the [ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/))  
+<br>
 
 Although the calculation results are generally reliable, unstable behavior has been observed under certain conditions.  
 We are continuing to debug these issues; please refer to future updates of coulomb.mlapp for improvements.  
 <br>
 
-### Repository Structure  
+## Repository Structure  
 - `coulomb.mlapp` — Main MATLAB App Designer application file  
 - `input_files/` — Directory for input files such as finite fault data used in analyses  
 - `input_overlay_files/` — Folder containing overlay files used for analysis  
@@ -37,7 +50,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 - `preferences/`, `slides/` — Configuration files used while the app is running  
 <br>
 
-### How to Run  
+## How to Run  
 1. Download all files contained in the Coulomb_ver4_beta directory, or download **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** and extract it. If you use the ZIP file, please also follow step (*1) below.  
 2. Open the directory "coulomb_ver4_beta" in MATLAB. (It is sufficient to open the directory that contains coulomb.mlapp.)
 3. If you want to update the version of the included `coulomb.mlapp`, please download the corresponding file from the [Releases](https://github.com/YoshKae/Coulomb_ver4/releases) of the target version and replace the existing `coulomb.mlapp` file.  
@@ -54,24 +67,14 @@ Please download the publicly available coastline dataset provided by NOAA (Natio
 After downloading, extract the ZIP file and move the extracted contents directly into the **`input_overlay_files/`** directory.  
 <br>
 
-### Future Updates  
-- Expansion of documentation and help systems  
-- Full compatibility with MATLAB 2024a and later  
-- Complete integration of the ISC Earthquake Toolbox  
-- Functions to retrieve earthquake catalogs published by various institutions  
-- Enhanced in-app creation tools for overlay data  
-- Map visualization functions  
-- Bug fixes and other improvements  
-<br>
-
-### Support 
+## Support 
 For questions, bug reports, feature requests, and general feedback, please use the **[Issues section](https://github.com/YoshKae/Coulomb_ver4/issues)**  of this GitHub repository. 
 
 This software is also introduced on the **[Temblor, Inc.](https://temblor.net/)** website.  
 Please refer to **[this page](https://temblor.net/earthquake-insights/introducing-coulomb-4-0-enhanced-stress-interaction-and-deformation-software-for-research-and-teaching-17066/)** for an overview and related information.
 <br>
 
-### Contact  
+## Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
   **Kaede Yoshizawa**   
   `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  

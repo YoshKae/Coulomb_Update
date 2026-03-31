@@ -33,7 +33,7 @@ We are continuing to debug these issues; please refer to future updates of coulo
 - `preferences/`, `slides/` — Configuration files used while the app is running  
 
 ### How to Run  
-1. Download all files contained in the Coulomb_ver4_beta directory, or download coulomb_ver4_beta.zip and extract it. If you use the ZIP file, please also follow step (*1) below.  
+1. Download all files contained in the Coulomb_ver4_beta directory, or download **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** and extract it. If you use the ZIP file, please also follow step (*1) below.  
 2. Open the directory "coulomb_ver4_beta" in MATLAB. (It is sufficient to open the directory that contains coulomb.mlapp.)
 3. To update the version of the included `coulomb.mlapp`, please download the corresponding file from the [Releases](https://github.com/YoshKae/Coulomb_ver4/releases) of the target version and replace the existing `coulomb.mlapp` file.  
 4. In the MATLAB Command Window, type **coulomb** to launch the software.  
@@ -107,7 +107,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 - `preferences/`, `slides/` — アプリ実行中に使用される設定ファイル  
 
 ### 実行方法  
-1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **coulomb_ver4_beta.zip** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。  
+1. Coulomb_ver4_betaのディレクトリに含まれるファイルをダウンロードする、もしくは **[coulomb_ver4_beta.zip](https://github.com/YoshKae/Coulomb_ver4/blob/main/coulomb_ver4_beta.zip)** をダウンロードし解凍してください。zipファイルからの場合は（※1）の手順も行ってください。  
 2. MATLAB 上でディレクトリ "coulomb_ver4_beta" を開いてください。coulomb.mlappが格納されているディレクトリを開いた状態であれば問題ありません。
 3. 格納されているcoulomb.mlappのバージョンを変更する場合には、[リリースノート](https://github.com/YoshKae/Coulomb_ver4/releases)から当該バージョンのcoulomb.mlappをダウンロードし、ファイルを差し替えてください。  
 4. MATLAB コマンドウィンドウから "coulomb" と入力し、ソフトウェアを実行します。  

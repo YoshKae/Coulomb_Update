@@ -1,14 +1,17 @@
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.  
 
-Currently, the repository includes the **beta version of Coulomb ver. 4.0**.  
+Currently, the repository includes the **Coulomb ver. 4.0.0**.  
 Coulomb 4.0 is a MATLAB-based application for calculating and visualizing Coulomb stress changes in both two and three dimensions, representing a substantial extension of previous versions.   
 While it is expected to run on MATLAB 2024a or later, it is more stable when used with MATLAB 2025a or newer.  
-
-### Important Notice   
-As this is a beta version, bugs may be discovered and fixed in future updates.  
+  
+Bugs may be discovered and fixed, and new features may be added.  
 **Please check the update information regularly.**  
-Check the bottom for updates.  
 
+### Update information 
+- ver. 4.0.0 beta — 2026-02-08 **Latest**
+- ver. 4.0.1 — under development
+
+### Important Notice 
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
 **Required for core functions**  
 - Mapping Toolbox  
@@ -53,9 +56,6 @@ After downloading, extract the ZIP file and move the extracted contents directly
 - Map visualization functions  
 - Bug fixes and other improvements  
 
-### Update information 
-- ver. 4.0.0 beta — 2026-02-08 **Latest**
-
 ### Support 
 For questions, bug reports, feature requests, and general feedback, please use the **[Issues section](https://github.com/YoshKae/Coulomb_ver4/issues)**  of this GitHub repository. 
 
@@ -73,15 +73,16 @@ For collaboration inquiries or direct contact, please reach out by email:
 -------------------------------------------------------------------------------------------------------------------
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  
 
-現在、**Coulomb ver. 4.0 のベータ版**を収録しています。  
+現在、**Coulomb ver. 4.0.0**を収録しています。  
 Coulomb ver. 4.0 は、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
 
-ベータバージョンのため、バグが見つかる可能性があります.  
+新たに発見されたバグが修正される可能性や、新機能が追加される場合があります.  
 **アップデート情報を確認するようにしてください。**  
 
 ### アップデート情報
 - ver. 4.0.0 beta — 2026-02-08 **最新**
+- ver. 4.0.1 — 開発中
 
 ### 重要
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  

@@ -14,12 +14,12 @@ Bugs may be discovered and fixed, and new features may be added.
 ### Important Notice 
 **Before running the application, please ensure that the following MATLAB add-ons are installed:**  
 **Required for core functions**  
-- Mapping Toolbox  
-- Image Processing Toolbox
+- [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
+- [Image Processing Toolbox](https://jp.mathworks.com/products/image-processing.html)
 
 **Required only for optional earthquake catalog analysis**  
-- Curve Fitting Toolbox  
-  (used for statistical analysis with the ISC Earthquake Toolbox)  
+- [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
+  (used for statistical analysis with the [ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/))  
 
 Although the calculation results are generally reliable, unstable behavior has been observed under certain conditions.  
 We are continuing to debug these issues; please refer to future updates of coulomb.mlapp for improvements.  
@@ -87,12 +87,12 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 ### 重要
 **アプリケーションを実行する前に、以下の MATLAB アドオンがインストールされていることを確認してください。**  
 **必須（基本機能）**  
-- Mapping Toolbox  
-- Image Processing Toolbox
+- [Mapping Toolbox](https://jp.mathworks.com/products/mapping.html)  
+- [Image Processing Toolbox](https://jp.mathworks.com/products/image-processing.html)
 
 **任意（特定の解析機能のみ）**  
-- Curve Fitting Toolbox  
-  （ISC Earthquake Toolbox を用いた地震カタログの統計解析時に使用） 
+- [Curve Fitting Toolbox](https://jp.mathworks.com/products/curvefitting.html)  
+  （[ISC Earthquake Toolbox](https://www.isc.ac.uk/projects/matlab/) を用いた地震カタログの統計解析時に使用） 
 
 計算結果自体は概ね信頼できるものですが、特定の条件下で不安定な挙動が確認されています。  
 本件については引き続きデバッグを進めており、今後の coulomb.mlapp の更新をご確認ください。  
@@ -116,7 +116,7 @@ MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用が�
 （※1）海岸線データの取得  
 GitHubのサイズ制限の問題で、アプリ内で海岸線データの作成に利用するファイルが含まれていません。  
 NOAA（米国海洋大気庁）の公開しているデータを以下のリンクからダウンロードしてください。  
-`https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip`  
+`'https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhg/latest/gshhg-shp-2.3.7.zip'`  
 ダウンロードしたzipファイルを解凍し、 **`input_overlay_files/`** のディレクトリ内にそのまま移動してください。  
 
 ### 今後のアップデート予定  

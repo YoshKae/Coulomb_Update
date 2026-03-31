@@ -11,7 +11,6 @@ While it is expected to run on MATLAB 2024a or later, it is more stable when use
 
 Bugs may be discovered and fixed, and new features may be added.  
 **Please check the update information regularly.**  
-<br>
 
 ### Update information 
 - [ver. 4.0.0](https://github.com/YoshKae/Coulomb_ver4/releases/tag/v4.0.0) — 2026-02-08 **Latest**

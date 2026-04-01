@@ -90,7 +90,7 @@ Last modified: March　31, 2026
 
 現在、**Coulomb ver. 4.0.0**を収録しています。  
 <br>
-Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するための MATLAB ベースのアプリケーションであり、従来版から大幅に拡張されたものです。  
+Coulomb ver. 4.0 は、[Coulomb ver. 3 (Toda et al., 2011)](https://pubs.usgs.gov/of/2011/1060/)を基盤として、現行の MATLAB 環境向けに再設計・再構築された、静的クーロン応力変化を 2 次元および 3 次元で計算・可視化するためのソフトウェアであり、従来版から大幅に拡張されたものです。  
 <br>
 MATLAB 2024a 以降で動作するはずですが、2025a 以降での使用がより安定しています。  
 <br>

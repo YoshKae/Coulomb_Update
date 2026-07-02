@@ -76,7 +76,7 @@ Please refer to **[this article (Yoshizawa et.al, 2026)](https://temblor.net/ear
 ## Contact  
 For collaboration inquiries or direct contact, please reach out by email:  
   **Kaede Yoshizawa**   
-  `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
+  `Email: yoshizawa.kaede.q1@alumni.tohoku.ac.jp`  
 <br>
 
 This repository was created on August 8, 2025, to share the development and editorial progress of Coulomb ver. 4.x.
@@ -163,7 +163,7 @@ NOAA（米国海洋大気庁）の公開しているデータを以下のリン�
 ## 連絡先  
 共同研究や直接のご連絡は、以下のアドレスまでお願いいたします。  
   **吉澤　楓**  
-  `Email: yoshizawa.kaede.q1@dc.tohoku.ac.jp`  
+  `Email: yoshizawa.kaede.q1@alumni.tohoku.ac.jp`  
 <br>
 
 本リポジトリは、Coulomb ver. 4.x の開発・編集状況を共有する目的で、2025年8月8日に作成されました。  
